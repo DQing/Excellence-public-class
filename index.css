@@ -1,0 +1,43 @@
+.user {
+    background-image: url("./image/1.jpg");
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.userImage img {
+    border-radius: 50%;
+    margin-left: 500px;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+.userInfo {
+    margin-left: 530px;
+    margin-top: 10px;
+    font-size: 17px;
+    color: rgba(184, 255, 160, 0.98);
+}
+
+.btn-group-lg {
+    margin-top: 15px;
+}
+
+ul li {
+    list-style: none;
+    line-height: 30px;
+}
+
+.col-lg-3 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 13px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
